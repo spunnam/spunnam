@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Samarasimha Reddy Punnam
+- 👀 I’m interested in Wed development, Mobile app development, Machine learning, Data base management
+- 🌱 I’m currently learning Springboot, Oracle Database, Tableau
+- 💞️ I’m looking to collaborate on Web development projects
+- 📫 How to reach me? psamarasimha.reddy06@gmail.com
