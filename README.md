@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samarasimha Reddy Punnam
-- 👀 I’m interested in Wed development, Mobile app development, Machine learning, Data base management
-- 🌱 I’m currently learning Springboot, AWS
-- 💞️ I’m looking to collaborate on Web development projects
+- 👀 I’m interested in Machine learning, Generative AI, Large Language Models,  Mobile app development, Data base management
+- 🌱 I’m currently learning LangGraph, Data Engineering
+- 💞️ I’m looking to collaborate on Generative AI Applications
 - 📫 How to reach me? psamarasimha.reddy06@gmail.com
